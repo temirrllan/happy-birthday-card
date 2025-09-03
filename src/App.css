@@ -12,7 +12,7 @@ body {
   height: 500px;
   cursor: pointer;
   transform-style: preserve-3d;
-  transform: perspective(2500px);
+  transform: perspective(2500px) translateX(40px);
   transition: 1s;
   margin-left: 70px;
 }
