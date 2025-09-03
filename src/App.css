@@ -14,7 +14,7 @@ body {
   transform-style: preserve-3d;
   transform: perspective(2500px);
   transition: 1s;
-  margin-left: 40px;
+  margin-left: 60px;
 }
 
 .birthdayCard:hover {
